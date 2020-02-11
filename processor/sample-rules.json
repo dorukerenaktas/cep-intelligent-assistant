@@ -1,0 +1,22 @@
+{
+  "stream": {
+    "source": {
+      "type": "kafka",
+      "broker": "localhost:9092",
+      "topic": "Events"
+    }
+  },
+  "rules": [
+    {
+      "window": {
+        "keyed": true,
+        "keys": [],
+        "time": 30
+      },
+      "condition": {
+        "and": []
+      },
+      "action": "ACTION_KEYWORD"
+    }
+  ]
+}

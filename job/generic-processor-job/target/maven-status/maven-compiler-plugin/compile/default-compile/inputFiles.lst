@@ -1,0 +1,9 @@
+/Users/doruk/Desktop/intelligent-assistant/job/generic-processor-job/src/main/java/com/ia/gpj/message/Producer.java
+/Users/doruk/Desktop/intelligent-assistant/job/generic-processor-job/src/main/java/com/ia/gpj/processor/Processor.java
+/Users/doruk/Desktop/intelligent-assistant/job/generic-processor-job/src/main/java/com/ia/gpj/message/ProducerStringSerializationSchema.java
+/Users/doruk/Desktop/intelligent-assistant/job/generic-processor-job/src/main/java/com/ia/gpj/processor/FlinkProcessor.java
+/Users/doruk/Desktop/intelligent-assistant/job/generic-processor-job/src/main/java/com/ia/gpj/message/Consumer.java
+/Users/doruk/Desktop/intelligent-assistant/job/generic-processor-job/src/main/java/com/ia/gpj/Main.java
+/Users/doruk/Desktop/intelligent-assistant/job/generic-processor-job/src/main/java/com/ia/gpj/rule/Rule.java
+/Users/doruk/Desktop/intelligent-assistant/job/generic-processor-job/src/main/java/com/ia/gpj/model/CEPAlert.java
+/Users/doruk/Desktop/intelligent-assistant/job/generic-processor-job/src/main/java/com/ia/gpj/model/CEPEvent.java
